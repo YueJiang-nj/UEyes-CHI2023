@@ -1,0 +1,7 @@
+colorthief==0.2.1
+imagesize==1.4.1
+matplotlib==3.4.2
+numpy==1.19.5
+opencv_python==4.5.5.62
+Pillow==9.2.0
+scikit_learn==1.1.1
