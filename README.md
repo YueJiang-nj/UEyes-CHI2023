@@ -7,7 +7,7 @@ UEyes is a large eye-tracking-based dataset including 62 participants looking at
 
 Authors: **Yue Jiang, Luis A. Leiva, Hamed R. Tavakoli, Paul R. B. Houssel, Julia Kylmälä1, Antti Oulasvirta**
 
-**Project page:** https://yuejiang-nj.github.io/Publications/2023CHI_UEyes/project_page/main.html
+**Project page:** https://userinterfaces.aalto.fi/ueyeschi23
 
 
 ## Dataset Overview
