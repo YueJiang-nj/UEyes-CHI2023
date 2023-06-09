@@ -67,6 +67,8 @@ This repo has following file layout:
 
 **scanpath_models** contains our improved model DeepGaze++ and PathGAN++.
 
+Note: each folder has a separate README.md file to explain how to run the code.
+
 
 ## Citation
 
