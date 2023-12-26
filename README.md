@@ -5,7 +5,7 @@ UEyes is a large eye-tracking-based dataset including 62 participants looking at
 
 **Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023)**
 
-Authors: **Yue Jiang, Luis A. Leiva, Hamed R. Tavakoli, Paul R. B. Houssel, Julia Kylmälä1, Antti Oulasvirta**
+Authors: **Yue Jiang, Luis A. Leiva, Hamed R. Tavakoli, Paul R. B. Houssel, Julia Kylmälä, Antti Oulasvirta**
 
 **Project page:** https://userinterfaces.aalto.fi/ueyeschi23
 
