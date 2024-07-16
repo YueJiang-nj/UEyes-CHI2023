@@ -2,7 +2,7 @@
 
 UEyes is a large eye-tracking-based dataset including 62 participants looking at 1,980 UI screenshots, covering four major UI types: webpage, desktop UI, mobile UI, and poster.
 
-
+**UEyes: Understanding Visual Saliency across User Interface Types**
 **Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023)**
 
 Authors: **Yue Jiang, Luis A. Leiva, Hamed R. Tavakoli, Paul R. B. Houssel, Julia Kylmälä, Antti Oulasvirta**
